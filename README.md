@@ -9,3 +9,11 @@ I work on various big projects using many tools like **Typescript**, **Python**,
 
 Contact Me:
 - Discord: `@6uit`
+
+<p align="center">
+  <a href="https://github.com/oeut">
+    <img src="https://lanyard.kyrie25.dev/api/1470061983704547503?waveColor=fff&waveSpotifyColor=212121&gradient=fff&borderRadius=25px&bg=000" alt="Discord Status" />
+  </a>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=csynholic&color=gray&style=plastic" alt="Profile Views" />
+</p>
